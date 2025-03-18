@@ -52,7 +52,7 @@ scene.add(ambientLight)
 // Create a point light
 
 
-//TODO - X: GUI setup
+//TODO-3: GUI setup
 const gui = new GUI()
 //Camera z position GUI
 const cameraFolder = gui.addFolder('Camera')
@@ -64,7 +64,7 @@ cameraFolder.open()
 //Cube Color GUI
 
 
-//TODO-X
+//TODO-2
 //Use a Sphere as a skybox
 //Texture
 
